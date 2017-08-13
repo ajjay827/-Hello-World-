@@ -1,5 +1,5 @@
 # -Hello-World-
-I dont know what language this is but Im going to start programming.
+I'm going to start programming in C++
 
 #include <iostream>
 using namspace std;
